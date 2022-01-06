@@ -4,5 +4,5 @@ psycopg2-binary==2.8.5
 Pillow==7.1.2
 djangorestframework==3.11.0
 
-Celery==4.4.5
+Celery==5.2.2
 django-redis==4.12.1   # https://github.com/jazzband/django-redis
